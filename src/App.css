@@ -1,0 +1,58 @@
+.outer{
+  position: relative;
+    margin: 30px;
+}
+.inside{
+  position: absolute;
+  width: 500px;
+  left: 29%;
+  border: 2px solid #ccc;
+  padding: 25px;
+
+}
+.particular-div{
+  border-bottom: 1px solid #ccc;
+    padding: 15px;
+}
+
+.pad-15{
+  padding: 15px;
+}
+.displayflex{
+  display: flex;
+  justify-content: space-between;
+}
+.alignuser{
+  text-align: center;
+  margin-right: 295px;
+}
+.mar-left-10{
+  margin-left: 10px;
+}
+.btn{
+  outline: none;
+  cursor: pointer;
+    border: 1px solid white;
+    border-radius: 50%;
+    width: 28px;
+    height: 28px;
+    font-size: 20px;
+    color: white;
+  
+}
+.plus{
+  background: #EA345A;
+ 
+}
+.minus{
+  background: #313A85;
+
+  
+}
+.pad-5{
+  padding: 10px;
+  color:#A6AAA9;
+}
+.user{
+  color: #313A85;
+}
